@@ -1,3 +1,5 @@
 *plist
-
-
+*xcworkspacedata
+*xcuserstate
+*pbxproj
+.DS_Store
